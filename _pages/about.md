@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-**Chen, X.**, Chen, J., Chen, S.^*^, et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
+**Chen, X.**, Chen, J., Chen, S.~*~, et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
 **Chen, X.**, Chen, S.^*^, et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. ECSA60.(Conference Paper). 
 
 Honors and Awards
