@@ -17,12 +17,12 @@ Education
 
 Publications
 ======
-**Chen, X.**, Chen, J., Chen, S.~*~, et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
-**Chen, X.**, Chen, S.~*~, et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. ECSA60.(Conference Paper). 
+**Chen, X.**, Chen, J., Chen, S., et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
+**Chen, X.**, Chen, S., et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. ECSA60.(Conference Paper). 
 
 Honors and Awards
 ======
-1. 1~st~ runner-up of Research Students Poster Competition, Hong Kong Geography Day (2024)
+1. 1st runner-up of Research Students Poster Competition, Hong Kong Geography Day (2024)
 1. Travel Award of ECSA60 and oral presentation (2024)
 1. Outstanding graduate of Shanghai (2022) (Top 5%)
 1. 'Zhu Yuanding' Scholarship. Shanghai Ocean University. (2021)
