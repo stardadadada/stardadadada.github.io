@@ -25,7 +25,12 @@ Honors and Awards
 1. 1^st^ runner-up of Research Students Poster Competition, Hong Kong Geography Day (2024)
 1. Travel Award of ECSA60 and oral presentation (2024)
 1. Outstanding graduate of Shanghai (2022) (Top 5%)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. 'Zhu Yuanding' Scholarship. Shanghai Ocean University. (2021)
+1. Hanbao Scholarship from Hanbao Group and Shanghai Ocean University. (2021)
+1. Innovation Award of Shanghai Ocean University. (2020, 2021)
+1. Outstanding Student Prize of Shanghai Ocean University. (2019, 2020, 2021)
+1. First Prize Scholarship of Shanghai Ocean University. (2020)
+1. Special Scholarship in Marine of 'Jiesheng'. Shanghai Ocean University. (2020)
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
