@@ -13,12 +13,12 @@ My research interest are mainly in the application of remote sensing in water qu
 Education
 ======
 2022.9-today, Ph.D student, Environment Science (Remote Sensing of Environment and GIS), University of Chinese Academy of Sciences, Beijing and Guangzhou, China.<br>
-2018.9-2022.6, bachelor degree of science, Marine Science, Shanghai Ocean University, Shanghai, China.
+2018.9-2022.6, Bachelor degree of Science, Marine Science, Shanghai Ocean University, Shanghai, China.
 
 Publications
 ======
 **Chen, X.**, Chen, J., Chen, S., et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
-**Chen, X.**, Chen, S., et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. ECSA60.(Conference Paper). 
+**Chen, X.**, Chen, S., et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. *ECSA60 Conference*.(Conference Paper). 
 
 Honors and Awards
 ======
