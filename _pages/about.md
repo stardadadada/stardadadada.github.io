@@ -31,6 +31,8 @@ Honors and Awards
 1. Outstanding Student Prize of Shanghai Ocean University. (2019, 2020, 2021)
 1. First Prize Scholarship of Shanghai Ocean University. (2020)
 1. Special Scholarship in Marine of 'Jiesheng'. Shanghai Ocean University. (2020)
+1. Second prize of the 5th Shanghai College Student Maker Competition in 2020
+1. Third prize of the undergraduate group of the National Mathematical Contest in Modeling. (Shanghai, 2020)
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
