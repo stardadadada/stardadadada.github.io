@@ -10,16 +10,21 @@ I am a Ph.D student in the University of Chinese Academy of Sciences, fortunate 
 
 My research interest are mainly in the application of remote sensing in water quality and marine environment. Additionally, I also have strong interest in the application of machine learning in water quality and biogeochemistry.
 
-
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2022.9-today, University of Chinese Academy of Sciences, Environment Science (Remote Sensing of Environment and GIS), Ph.D student.
+2018.9-2022.6, Shanghai Ocean University, Marine Science, bachelor degree of science.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+**Chen, X.**, Chen, J., Chen, S.^*^, et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.
+**Chen, X.**, Chen, S.^*^, et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. ECSA60.(Conference Paper). 
+
+Honors and Awards
+======
+1. 1^st^ runner-up of Research Students Poster Competition, Hong Kong Geography Day (2024)
+1. Travel Award of ECSA60 and oral presentation (2024)
+1. Outstanding graduate of Shanghai (2022) (Top 5%)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
