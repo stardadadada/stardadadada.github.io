@@ -17,6 +17,7 @@ Education
 
 Publications
 ======
+**Chen, X.**, Zhao, C., Chen, J., et al. (2025). Water quality parameters-based prediction of dissolved oxygen in estuaries using advanced explainable ensemble machine learning. *Journal of Environmental Management*, 380, 125146.<br>
 **Chen, X.**, Chen, J., Chen, S., et al. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
 Zhao, C., **Chen, X.**, Chen, S., Han, B. (2025). Asymmetric Response of Vegetation Greening near Tropic of Cancer in China to El Niño/Southern Oscillation. *Remote Sensing*, 17, 977.<br>
 Dong, J., Jia, K., Wang, C., Yu, G., Li, D., Chen, S., **Chen, X.**, Wen, N., Zhao, Z. (2025). The ensemble learning combined with the pruning model reveals the spectral response mechanism of tidal flat mapping in China. *Ecological Informatic*, 205, 103104.<br>
