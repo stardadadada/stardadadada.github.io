@@ -8,10 +8,11 @@ redirect_from:
 ---
 I am a Ph.D student in the University of Chinese Academy of Sciences, fortunate to be advised by [Prof. Shuisen Chen](https://www.gig.cas.cn/sourcedb/zw/rck/200907/t20090724_2196929.html). I got my bachelor degree in College of Oceanography and Ecological Science from Shanghai Ocean University in 2022.
 
-My research interest are mainly in the application of remote sensing in water quality and marine environment. Additionally, I also have strong interest in the application of machine learning in water quality and biogeochemistry in ocean.
+My research interest are mainly in the application of remote sensing in water quality and marine environment. Additionally, I also have strong interest in the application of machine learning in water quality and marine biogeochemistry.
 
 Education
 ======
+2025.11-today, Visiting student, Ocean color remote sensing, Ghent University, Ghent, Belgium.<br>
 2022.9-today, Ph.D student, Environment Science (Remote Sensing of Environment and GIS), University of Chinese Academy of Sciences, Beijing and Guangzhou, China.<br>
 2018.9-2022.6, Bachelor degree of Science, Marine Science, Shanghai Ocean University, Shanghai, China.
 
@@ -23,6 +24,14 @@ Zhao, C., **Chen, X.**, Chen, S., Han, B. (2025). Asymmetric Response of Vegetat
 Dong, J., Jia, K., Wang, C., Yu, G., Li, D., Chen, S., **Chen, X.**, Wen, N., Zhao, Z. (2025). The ensemble learning combined with the pruning model reveals the spectral response mechanism of tidal flat mapping in China. *Ecological Informatic*, 205, 103104.<br>
 Wen, N., Wang, C., **Chen, X.**, Chen, S., Zhou, X., Yu, G. (2024). High-resolution remote sensing estimation of Ammonia Nitrogen concentrations in coastal urban river networks based on machine learning models. *Ecology and Environment*, 33-11, 1737.<br>
 **Chen, X.**, Chen, S., et al. (2024). Application of ensemble learning and deep learning in predicting future acidification and hypoxia in estuaries. *ECSA60 Conference*.(Conference Paper). 
+
+Peer review activities
+======
+ISPRS Journal of Photogrammetry and Remote Sensing; Journal of Cleaner Production.
+
+Funding
+======
+1. Oversea Study Program of Guangzhou Elite Project (2025)
 
 Honors and Awards
 ======
