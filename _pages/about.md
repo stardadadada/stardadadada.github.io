@@ -12,7 +12,7 @@ My research interest are mainly in the application of remote sensing in water qu
 
 Education
 ======
-2025.11-today, Visiting student, Ocean color remote sensing, Ghent University, Ghent, Belgium.<br>
+2026.3-today, Visiting Ph.D student, Ocean color remote sensing, Ghent University, Ghent, Belgium.<br>
 2022.9-today, Ph.D student, Environment Science (Remote Sensing of Environment and GIS), University of Chinese Academy of Sciences, Beijing and Guangzhou, China.<br>
 2018.9-2022.6, Bachelor degree of Science, Marine Science, Shanghai Ocean University, Shanghai, China.
 
@@ -20,14 +20,15 @@ Publications
 ======
 [1] **Chen, X.**, Zhao, C., Chen, J., Jiang, H., Li, D., Zhang, J., Han, B., Chen, S., Wang, C. (2025). Water quality parameters-based prediction of dissolved oxygen in estuaries using advanced explainable ensemble machine learning. *Journal of Environmental Management*, 380, 125146.<br>
 [2] **Chen, X.**, Chen, J., Chen, S., Wang, C., Sun, Y., Jiang, G., Wu, M., Li, J. (2025). Spatial‒temporal pattern of primary productivity in the South China Sea under the monsoon regulation: Insights from observations of 2003–2022. *Marine Environment Research*, 205, 107015.<br>
-[3] Zeng, P., Liao, X., Xu, J., Chen, S., Wang, Z., Yang, A., **Chen, X.#**. RWKV-SKF: A recurrent architecture with state-space and frequency-domain filtering for dissolved oxygen predicting and revealing influencing mechanisms. Information Sciences.<br>
+[3] Zeng, P., Liao, X., Xu, J., Chen, S., Wang, Z., Yang, A., **Chen, X.#**. RWKV-SKF: A recurrent architecture with state-space and frequency-domain filtering for dissolved oxygen predicting and revealing influencing mechanisms. *Information Sciences*, 2026, 123018.<br>
 [4] Zhao, C., **Chen, X.**, Chen, S., Han, B. (2025). Asymmetric Response of Vegetation Greening near Tropic of Cancer in China to El Niño/Southern Oscillation. *Remote Sensing*, 17, 977.<br>
 [5] Dong, J., Jia, K., Wang, C., Yu, G., Li, D., Chen, S., **Chen, X.**, Wen, N., Zhao, Z. (2025). The ensemble learning combined with the pruning model reveals the spectral response mechanism of tidal flat mapping in China. *Ecological Informatic*, 205, 103104.<br>
-[6] Wen, N., Wang, C., **Chen, X.**, Chen, S., Zhou, X., Yu, G. (2024). High-resolution remote sensing estimation of Ammonia Nitrogen concentrations in coastal urban river networks based on machine learning models. *Ecology and Environment*, 33-11, 1737.<br>
+[6] Li, D., Hong, C., Han, L., Du, X., **Chen, X.**, Chen, J., Xu, G., Su, Z. (2026). Effects of Within-Canopy Leaf Trait Distribution on BRF, Vegetation Indices, and UAV Retrieval Accuracy in Litchi Orchards. *Remote Sensing*, 18(5), 686.<br>
+[7] Wen, N., Wang, C., **Chen, X.**, Chen, S., Zhou, X., Yu, G. (2024). High-resolution remote sensing estimation of Ammonia Nitrogen concentrations in coastal urban river networks based on machine learning models. *Ecology and Environment*, 33-11, 1737.<br>
 
 Peer review activities
 ======
-ISPRS Journal of Photogrammetry and Remote Sensing; Journal of Cleaner Production; Frontiers in Marine Science
+ISPRS Journal of Photogrammetry and Remote Sensing; Journal of Cleaner Production; Agricultural water management; Frontiers in Marine Science; Journal of Coastal Conservation.
 
 Funding
 ======
