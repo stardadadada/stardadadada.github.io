@@ -28,7 +28,16 @@ Publications
 
 Peer review activities
 ======
-ISPRS Journal of Photogrammetry and Remote Sensing; Journal of Cleaner Production; Agricultural water management; Frontiers in Marine Science; Journal of Coastal Conservation.
+ISPRS Journal of Photogrammetry and Remote Sensing
+Journal of Cleaner Production
+Agricultural Water Management
+Ecological Informatics
+Frontiers in Marine Science
+Marine Environmental Research
+Scientific Reports
+Stochastic Environmental Research and Risk Assessment
+Cluster Computing
+Journal of Coastal Conservation.
 
 Funding
 ======
